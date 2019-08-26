@@ -1,0 +1,22 @@
+
+= DB2
+
+== Run DB2 database
+
+To run db2 database, go to `docker-db2` directory.
+
+To start db2 container: `. .\db2.sh`
+
+In container, to start database and create schema run: `. .\initDb2.sh`
+
+== How to use database
+
+
+|===
+|Folder | Description
+
+|java-connect-db2
+|Java program to usins db2
+
+|===
+
